@@ -1,4 +1,4 @@
-# Slope alculator
+# Slope Calculator
 Computes the slope of a given function at a point.
 
 ## Features
