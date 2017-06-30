@@ -1,4 +1,4 @@
-# Slope Calculator
+# Slope Calculator using Horner's Rule
 Computes the slope of a given function at a point.
 
 ## Features
@@ -6,4 +6,5 @@ Computes the slope of a given function at a point.
 * Supports trigonometric and logorithmic functions
 * Uses a GUI similar to the Apple Calculator
 * Error traps user input
+* Uses Horner's Rule to evaluate polynomial expressions
 * Uses Object-Oriented-Programming design techniques
