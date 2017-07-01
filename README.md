@@ -10,4 +10,5 @@ Computes the slope of a given function at a point.
 * Uses Object-Oriented-Programming design techniques
 
 ## Screenshot
-![Screenshot](http://individual.utoronto.ca/anupdeb/img/slopecalculatorpic.png "Screenshot")
+![Screenshot](http://individual.utoronto.ca/anupdeb/img/slopecalc.png "Screenshot")
+
