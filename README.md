@@ -8,3 +8,6 @@ Computes the slope of a given function at a point.
 * Error traps user input
 * Uses Horner's Rule to evaluate polynomial expressions
 * Uses Object-Oriented-Programming design techniques
+
+## Screenshot
+![Screenshot](http://individual.utoronto.ca/anupdeb/img/slopecalculatorpic.png "Screenshot")
